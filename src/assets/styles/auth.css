@@ -1,0 +1,66 @@
+.main-container {
+    background: linear-gradient(#ef745c, #34073d)
+}
+
+.custom-button {
+    background-color: #34073d !important;
+}
+
+.sidebar .nav-link {
+    padding: 10px 15px;
+    display: block;
+}
+
+.navbar-toggler {
+    background: white;
+}
+
+.main-component {
+    padding-top: 50px;
+    margin-left: 250px !important;
+}
+
+@media (max-width: 576px) {
+    .main-component {
+        margin-left: 0px !important;
+    }
+}
+
+.sidebar-view {
+    width: 250px;
+    height: 100vh;
+    background: linear-gradient(180deg, #34073d, #ef745c);
+    overflow-x: hidden;
+    transition: 0.3s;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    padding-top: 50px;
+}
+
+.sidebar-item {
+    font-size: 15px !important;
+    background: rgba(128, 128, 128, 0.3882) !important;
+    cursor: pointer !important;
+}
+
+.navbar-item {
+    font-size: 15px !important;
+}
+
+.navbar-view {
+    background: #34073d;
+    color: white;
+    z-index: 15
+}
+
+.login-form {
+    width: 25% !important;
+}
+
+@media (max-width: 576px) {
+    .login-form  {
+        width: 100% !important;
+    }
+}
