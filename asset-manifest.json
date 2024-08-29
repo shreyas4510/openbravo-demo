@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.5faddbd2.css",
-    "main.js": "/your-repo-name/static/js/main.4957d3fd.js",
-    "static/js/453.ac776b7f.chunk.js": "/your-repo-name/static/js/453.ac776b7f.chunk.js",
-    "static/media/logo.png": "/your-repo-name/static/media/logo.44f03885741592fe8524.png",
-    "index.html": "/your-repo-name/index.html",
-    "main.5faddbd2.css.map": "/your-repo-name/static/css/main.5faddbd2.css.map",
-    "main.4957d3fd.js.map": "/your-repo-name/static/js/main.4957d3fd.js.map",
-    "453.ac776b7f.chunk.js.map": "/your-repo-name/static/js/453.ac776b7f.chunk.js.map"
+    "main.css": "/openbravo-demo/static/css/main.5faddbd2.css",
+    "main.js": "/openbravo-demo/static/js/main.ac392976.js",
+    "static/js/453.ac776b7f.chunk.js": "/openbravo-demo/static/js/453.ac776b7f.chunk.js",
+    "static/media/logo.png": "/openbravo-demo/static/media/logo.44f03885741592fe8524.png",
+    "index.html": "/openbravo-demo/index.html",
+    "main.5faddbd2.css.map": "/openbravo-demo/static/css/main.5faddbd2.css.map",
+    "main.ac392976.js.map": "/openbravo-demo/static/js/main.ac392976.js.map",
+    "453.ac776b7f.chunk.js.map": "/openbravo-demo/static/js/453.ac776b7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5faddbd2.css",
-    "static/js/main.4957d3fd.js"
+    "static/js/main.ac392976.js"
   ]
 }
