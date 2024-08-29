@@ -141,7 +141,7 @@ export default function Table({
                         onClick={() => table.firstPage()}
                         disabled={!table.getCanPreviousPage()}
                     >
-                        <PiCaretDoubleLeftFill size={15} color="#34073d" />
+                        <PiCaretDoubleLeftFill size={15} color="#292f7b" />
                     </button>
                     <button
                         data-testid="prev-page"
@@ -149,7 +149,7 @@ export default function Table({
                         onClick={() => table.previousPage()}
                         disabled={!table.getCanPreviousPage()}
                     >
-                        <FaCaretLeft size={15} color="#34073d" />
+                        <FaCaretLeft size={15} color="#292f7b" />
                     </button>
                     <div className="mx-2">
                         <span>Page</span>
@@ -164,7 +164,7 @@ export default function Table({
                         onClick={() => table.nextPage()}
                         disabled={!table.getCanNextPage()}
                     >
-                        <FaCaretRight size={15} color="#34073d" />
+                        <FaCaretRight size={15} color="#292f7b" />
                     </button>
                     <button
                         data-testid="last-page"
@@ -172,7 +172,7 @@ export default function Table({
                         onClick={() => table.lastPage()}
                         disabled={!table.getCanNextPage()}
                     >
-                        <PiCaretDoubleRightFill size={15} color="#34073d" />
+                        <PiCaretDoubleRightFill size={15} color="#292f7b" />
                     </button>
                 </div>
                 <div>

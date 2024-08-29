@@ -10,14 +10,14 @@
 }
 .loader {
     border-top: 5px solid;
-    border-color: #34073d;
+    border-color: #292f7b;
     border-radius: 50%;
     width: 70px;
     height: 70px;
     animation: spin 1s linear infinite;
 }
 .loader-text {
-    color: #34073d;
+    color: #292f7b;
 }
 
 @keyframes spin {

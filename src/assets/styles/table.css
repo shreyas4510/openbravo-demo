@@ -1,7 +1,7 @@
 .table-header {
-    background: linear-gradient(360deg, #ef745c, #34073d);
+    background: linear-gradient(360deg, #2c58a2, #292f7b);
     color: white;
-    box-shadow: 0px 4px 8px #ef745c;
+    box-shadow: 0px 4px 8px #2c58a2;
     position: relative;
 }
 
@@ -10,9 +10,9 @@
 }
 
 .table-footer {
-    background: linear-gradient(180deg, #ef745c, #34073d);
+    background: linear-gradient(180deg, #2c58a2, #292f7b);
     color: white;
-    box-shadow: 0px -4px 8px #ef745c;
+    box-shadow: 0px -4px 8px #2c58a2;
     position: relative;
 }
 

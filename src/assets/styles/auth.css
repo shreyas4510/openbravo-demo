@@ -1,9 +1,9 @@
 .main-container {
-    background: linear-gradient(#ef745c, #34073d)
+    background: linear-gradient(#2c58a2, #292f7b)
 }
 
 .custom-button {
-    background-color: #34073d !important;
+    background-color: #292f7b !important;
 }
 
 .sidebar .nav-link {
@@ -29,7 +29,7 @@
 .sidebar-view {
     width: 250px;
     height: 100vh;
-    background: linear-gradient(180deg, #34073d, #ef745c);
+    background: linear-gradient(180deg, #292f7b, #2c58a2);
     overflow-x: hidden;
     transition: 0.3s;
     position: fixed;
@@ -50,7 +50,7 @@
 }
 
 .navbar-view {
-    background: #34073d;
+    background: #292f7b;
     color: white;
     z-index: 15
 }
